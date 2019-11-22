@@ -1,8 +1,6 @@
 %% Simulation reproduced
 
 N = 100;
-% m = matfile('C:\Users\pg8709\Documents\MATLAB\Courses\Fall 2015\MQE\data.mat','Writable',true);
-
 
 for n = 1 : N
 
