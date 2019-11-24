@@ -1,5 +1,8 @@
-% neighs.m (c) Prasanth "Prash" Ganesan
-% Author: Prash Ganesan <prasganesan.pg@gmail.com>
+% neighs.m
+
+% Copyright (c) Prasanth "Prash" Ganesan
+% Author email: <prasganesan.pg@gmail.com>
+
 % This code is a naive way to find the neighbor elements of a given location of a matrix
 
 function [neighbors, inds] = neighs(row, col, Areaa)
