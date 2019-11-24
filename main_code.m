@@ -1,5 +1,8 @@
-% main_code.m (c) Prasanth "Prash" Ganesan
-% Author: Prash Ganesan <prasganesan.pg@gmail.com>
+% main_code.m
+
+% Copyright (c) Prasanth "Prash" Ganesan
+% Author email: <prasganesan.pg@gmail.com>
+
 % Technique of Bayesian search reproduced from paper mentioned in the readme document of this repository
 
 N = 100;
